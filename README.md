@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 **Reactjs**
 
-- 📝 I regularly write articles on Medium [https://medium.com/@xcellentsam](https://medium.com/@xcellentsam)
+- 📝 I write articles on Medium [https://medium.com/@xcellentsam](https://medium.com/@xcellentsam)
 
 - 💬 Ask me about **Web Development**
 
