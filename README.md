@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Blessed Woniowei</h1>
+<h1 align="center">Hi 👋, I'm Samuel Woniowei</h1>
 <h3 align="center">A frontend developer from Nigeria</h3>
 
 
